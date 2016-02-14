@@ -2,7 +2,7 @@
 
 <br>Collected all requirements and user demands for this website.
 <br>Analyzed the entities(user product order etc.) and relationship(order - user, order - product, etc.)  in this web application.
-<br>Designed the database and implemented on MySQL.
+<br>Designed the database and implemented it on MySQL.
 <br>Designed and implemented the logic for user register, logIn, logOut using Java on MyElipse IDE.
 <br>Deployed the website on Tomcat Server.
 
