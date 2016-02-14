@@ -7,11 +7,12 @@
 <br>Deployed the website on Tomcat Server.
 
 
-<br>Functions: user register,
+<br>Functions: 
+          <br>user register,
           <br>user log in,
           <br>user log out,
-	       	<br>users/products management by editing data shown on particular JSP page, 
-				  <br>file uploading/downloading, 
-				  <br>user privilege contr
-				  <br>generating
-				  <br>auto logging.
+	  <br>users/products management by editing data shown on particular JSP page, 
+	  <br>file uploading/downloading, 
+	  <br>user privilege contr
+	  <br>generating
+	  <br>auto logging.
