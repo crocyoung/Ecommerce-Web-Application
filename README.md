@@ -13,6 +13,6 @@
           <br>user log out,
 	  <br>users/products management by editing data shown on particular JSP page, 
 	  <br>file uploading/downloading, 
-	  <br>user privilege contr
-	  <br>generating
+	  <br>user privilege control
+	  <br>generating order
 	  <br>auto logging.
